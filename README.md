@@ -118,7 +118,7 @@ All core user journeys tested end-to-end: Login → Inventory → Cart → Check
 - **Bug-007** — Every product navigates to the wrong product details page (problem_user)
 - **Bug-009** — Remove button does not remove products from cart (problem_user)
 - **Bug-011** — Only 3 out of 6 products can be added to cart (problem_user)
-- **Bug-012** — Last Name field in checkout does not accept any input (problem_user)
+- **Bug-012** — Last Name field in your cart does not accept any input (problem_user)
 
 ### 🛒 Empty Cart Bug (End-to-End)
 A significant defect was identified and traced end-to-end:
