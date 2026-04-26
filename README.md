@@ -136,10 +136,6 @@ Two sort-related bugs identified:
 
 ## Test Cases
 
-📄 Full test cases with steps, expected results, actual results, severity, and priority are documented in the spreadsheet:
-
-👉 [`docs/SauceDemo-Test-Cases.xlsx`](docs/SauceDemo-Test-Cases.xlsx)
-
 | Sheet | Contents |
 |---|---|
 | Summary | Overall execution summary and key findings |
