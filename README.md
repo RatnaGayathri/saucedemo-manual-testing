@@ -164,13 +164,13 @@ All bugs are documented in the **Bug Reports** sheet of [Test-Cases.xlsx](./Test
 | Google Chrome | Test execution browser |
 | Google Sheets / Excel | Test case management and bug tracking |
 | GitHub | Version control and portfolio hosting |
-| Selenium + Python + pytest *(planned)* | Automation for selected high-priority test cases |
+| automation(playwright) *(planned)* | Automation for selected high-priority test cases |
 
 ---
 
 ## 🤖 Automation Candidates
 
-The following test cases are identified for Selenium/Python automation (Page Object Model pattern):
+The following test cases are identified for automation(playwright) (Page Object Model pattern):
 
 - `TC-L-001`, `TC-L-002` — Login with valid credentials
 - `TC-L-003`, `TC-L-004` — Invalid credentials error message validation
