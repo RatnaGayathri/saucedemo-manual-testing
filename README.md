@@ -28,7 +28,7 @@ A comprehensive manual testing project for [SauceDemo](https://www.saucedemo.com
 | **Other Users** | `locked_out_user` (lockout testing) · `problem_user` (exploratory — intentionally broken) |
 | **Browser** | Google Chrome (latest stable version) |
 | **Total Test Cases** | 68 across 5 modules |
-| **Bugs Found** | 13 bugs — 5 Critical, 2 High, 6 Medium |
+| **Bugs Found** | 13 bugs — 5 Critical, 2 High, 5 Medium, 1 Low |
 
 ---
 
