@@ -91,8 +91,8 @@ A comprehensive manual testing project for [SauceDemo](https://www.saucedemo.com
 |---|---|---|---|:---:|:---:|
 | Bug-001 | TC-L-008 | Login | User can access Inventory page via browser Forward button after navigating Back — session not invalidated | 🔴 Critical | High |
 | Bug-002 | TC-I-002 | Inventory | Last product name appears incorrect — `"Test.allTheThings() T-Shirt (Red)"` | 🟡 Low | Low |
-| Bug-003 | TC-I-012 | Inventory | Sorting dropdown arrow icon is not clickable | 🟡 Low | Low |
-| Bug-004 | TC-I-013 | Inventory | Selected sort order resets to default after navigating to product detail and back | 🟡 Low | Low |
+| Bug-003 | TC-I-012 | Inventory | Sorting dropdown arrow icon is not clickable | 🟡 Medium | Medium |
+| Bug-004 | TC-I-013 | Inventory | Selected sort order resets to default after navigating to product detail and back | 🟡 Medium | Medium |
 | Bug-005 | TC-C-007 | Your Cart | Checkout proceeds with empty cart — no validation applied | 🟠 Medium | Medium |
 | Bug-006 | TC-Ch-017 | Checkout | Full checkout flow completes with zero products — order confirmed with empty cart | 🟠 Medium | High |
 | Bug-007 | TC-OU-002 | Inventory (problem_user) | Incorrect product images displayed on inventory and product detail pages | 🟠 High | Medium |
