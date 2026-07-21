@@ -41,7 +41,7 @@ A comprehensive manual testing project for [SauceDemo](https://www.saucedemo.com
 | Your Cart | 11 | 10 | 1 | 90.9% | 2 | 🟠 Medium |
 | Checkout | 16 | 15 | 1 | 93.8% | 2 | 🟠 Medium |
 | Special User Scenarios | 8 | 1 | 7 | 12.5% | 7 | 🔴 Critical |
-| **TOTAL** | **68** | **52** | **13** | **80%** | **13** | |
+| **TOTAL** | **68** | **55** | **13** | **80%** | **13** | |
 
 ---
 
