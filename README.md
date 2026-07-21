@@ -133,7 +133,7 @@ The workbook contains the following sheets:
 |---|---|
 | `Summary` | Dashboard — module stats, pass/fail counts, bug summary, key findings |
 | `Login` | 9 test cases covering login functionality |
-| `Inventory` | 21 test cases covering product listing, sorting, add/remove, navigation |
+| `Inventory` | 23 test cases covering product listing, sorting, add/remove, navigation |
 | `Your Cart` | 11 test cases covering cart management and navigation |
 | `Checkout` | 16 test cases covering the full checkout flow |
 | `Exploratory Testing – Special U` | 8 test cases for locked_out_user and problem_user |
