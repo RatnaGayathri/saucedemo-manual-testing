@@ -27,7 +27,7 @@ A comprehensive manual testing project for [SauceDemo](https://www.saucedemo.com
 | **Primary User** | `standard_user` / `secret_sauce` |
 | **Other Users** | `locked_out_user` (lockout testing) · `problem_user` (exploratory — intentionally broken) |
 | **Browser** | Google Chrome (latest stable version) |
-| **Total Test Cases** | 65 across 5 modules |
+| **Total Test Cases** | 68 across 5 modules |
 | **Bugs Found** | 13 bugs — 5 Critical, 2 High, 3 Medium, 3 Low |
 
 ---
@@ -37,11 +37,11 @@ A comprehensive manual testing project for [SauceDemo](https://www.saucedemo.com
 | Module | Total TCs | Pass | Fail | Pass Rate | Bugs Found | Highest Severity |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|
 | Login | 9 | 8 | 1 | 88.9% | 1 | 🔴 Critical |
-| Inventory | 21 | 18 | 3 | 85.7% | 3 | 🟡 Low |
+| Inventory | 23 | 18 | 3 | 85.7% | 3 | 🟡 Low |
 | Your Cart | 11 | 10 | 1 | 90.9% | 2 | 🟠 Medium |
 | Checkout | 16 | 15 | 1 | 93.8% | 2 | 🟠 Medium |
 | Special User Scenarios | 8 | 1 | 7 | 12.5% | 7 | 🔴 Critical |
-| **TOTAL** | **65** | **52** | **13** | **80%** | **13** | |
+| **TOTAL** | **68** | **52** | **13** | **80%** | **13** | |
 
 ---
 
